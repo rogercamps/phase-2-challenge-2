@@ -1,5 +1,5 @@
 const assert = require('chai').assert
-const { month, reverseSentence, nameProps, filterBetween } = require('./test')
+const { month, reverseSentence, nameProps, filterBetween } = require('./tests')
 
 
 
